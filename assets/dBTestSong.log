@@ -1,0 +1,1642 @@
+Track 0: dBTestSong
+MetaMessage('track_name', name='dBTestSong', time=0)
+MetaMessage('time_signature', numerator=4, denominator=4, clocks_per_click=24, notated_32nd_notes_per_beat=8, time=0)
+MetaMessage('set_tempo', tempo=571429, time=0)
+MetaMessage('end_of_track', time=0)
+Track 1: Blooks-clap_v-4.02dB
+MetaMessage('track_name', name='Blooks-clap_v-4.02dB', time=0)
+note_on channel=0 note=42 velocity=127 time=12000
+note_off channel=0 note=42 velocity=0 time=480
+note_on channel=0 note=42 velocity=127 time=480
+note_off channel=0 note=42 velocity=0 time=480
+note_on channel=0 note=42 velocity=127 time=480
+note_off channel=0 note=42 velocity=0 time=480
+note_on channel=0 note=42 velocity=127 time=480
+note_off channel=0 note=42 velocity=0 time=480
+note_on channel=0 note=42 velocity=127 time=480
+note_off channel=0 note=42 velocity=0 time=480
+note_on channel=0 note=42 velocity=127 time=480
+note_off channel=0 note=42 velocity=0 time=480
+note_on channel=0 note=42 velocity=127 time=480
+note_off channel=0 note=42 velocity=0 time=480
+note_on channel=0 note=42 velocity=127 time=480
+note_off channel=0 note=42 velocity=0 time=480
+note_on channel=0 note=48 velocity=127 time=9600
+note_off channel=0 note=48 velocity=0 time=120
+note_on channel=0 note=46 velocity=127 time=0
+note_on channel=0 note=48 velocity=127 time=0
+note_off channel=0 note=46 velocity=0 time=120
+note_off channel=0 note=48 velocity=0 time=0
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=120
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=120
+note_on channel=0 note=50 velocity=127 time=0
+note_off channel=0 note=50 velocity=0 time=120
+note_on channel=0 note=50 velocity=127 time=0
+note_off channel=0 note=50 velocity=0 time=120
+note_on channel=0 note=50 velocity=127 time=0
+note_off channel=0 note=50 velocity=0 time=120
+note_on channel=0 note=51 velocity=127 time=0
+note_off channel=0 note=51 velocity=0 time=120
+note_on channel=0 note=51 velocity=127 time=0
+note_off channel=0 note=51 velocity=0 time=120
+note_on channel=0 note=45 velocity=127 time=0
+note_off channel=0 note=45 velocity=0 time=120
+note_on channel=0 note=44 velocity=127 time=0
+note_off channel=0 note=44 velocity=0 time=120
+note_on channel=0 note=43 velocity=127 time=0
+note_off channel=0 note=43 velocity=0 time=120
+note_on channel=0 note=54 velocity=127 time=120
+note_off channel=0 note=54 velocity=0 time=120
+note_on channel=0 note=49 velocity=127 time=480
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=720
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=480
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=720
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=480
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=720
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=480
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=720
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=480
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=720
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=480
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=720
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=240
+note_off channel=0 note=49 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=240
+MetaMessage('end_of_track', time=0)
+Track 2: blocks-snare_v-1.75dB
+MetaMessage('track_name', name='blocks-snare_v-1.75dB', time=0)
+note_on channel=0 note=50 velocity=127 time=12480
+note_off channel=0 note=50 velocity=0 time=960
+note_on channel=0 note=50 velocity=127 time=960
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=240
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=960
+note_off channel=0 note=50 velocity=0 time=960
+note_on channel=0 note=50 velocity=127 time=960
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=240
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=39 velocity=127 time=0
+note_off channel=0 note=39 velocity=0 time=240
+note_on channel=0 note=39 velocity=127 time=0
+note_off channel=0 note=39 velocity=0 time=240
+note_on channel=0 note=39 velocity=127 time=0
+note_off channel=0 note=39 velocity=0 time=240
+note_on channel=0 note=39 velocity=127 time=0
+note_off channel=0 note=39 velocity=0 time=240
+note_on channel=0 note=39 velocity=127 time=240
+note_off channel=0 note=39 velocity=0 time=240
+note_on channel=0 note=48 velocity=127 time=0
+note_off channel=0 note=48 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=240
+note_on channel=0 note=48 velocity=127 time=240
+note_off channel=0 note=48 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=120
+note_off channel=0 note=50 velocity=0 time=120
+note_on channel=0 note=45 velocity=127 time=0
+note_on channel=0 note=49 velocity=127 time=120
+note_off channel=0 note=45 velocity=0 time=120
+note_off channel=0 note=49 velocity=0 time=0
+note_on channel=0 note=47 velocity=127 time=0
+note_on channel=0 note=49 velocity=127 time=120
+note_off channel=0 note=47 velocity=0 time=120
+note_off channel=0 note=49 velocity=0 time=0
+note_on channel=0 note=48 velocity=127 time=0
+note_off channel=0 note=48 velocity=0 time=240
+note_on channel=0 note=49 velocity=127 time=0
+note_off channel=0 note=49 velocity=0 time=120
+note_on channel=0 note=50 velocity=127 time=8760
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=240
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=720
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=0
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=1440
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=240
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=720
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=0
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=1440
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=240
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=720
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=0
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=1440
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=240
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=720
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=0
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=1440
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=240
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=720
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=0
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=1440
+note_off channel=0 note=50 velocity=0 time=480
+note_on channel=0 note=50 velocity=127 time=240
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=720
+note_off channel=0 note=50 velocity=0 time=240
+note_on channel=0 note=50 velocity=127 time=0
+note_off channel=0 note=50 velocity=0 time=480
+MetaMessage('end_of_track', time=0)
+Track 3: blocks-kick_v-0.45dB
+MetaMessage('track_name', name='blocks-kick_v-0.45dB', time=0)
+note_on channel=0 note=45 velocity=127 time=11520
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_on channel=0 note=45 velocity=96 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=45 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=0
+note_on channel=0 note=45 velocity=96 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=45 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=0
+note_on channel=0 note=45 velocity=96 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=45 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=7680
+note_on channel=0 note=43 velocity=96 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=43 velocity=0 time=0
+note_on channel=0 note=43 velocity=96 time=0
+note_off channel=0 note=43 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=480
+note_on channel=0 note=44 velocity=127 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=44 velocity=0 time=0
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_on channel=0 note=43 velocity=96 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=43 velocity=0 time=0
+note_on channel=0 note=43 velocity=96 time=0
+note_off channel=0 note=43 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=480
+note_on channel=0 note=44 velocity=127 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=44 velocity=0 time=0
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_on channel=0 note=43 velocity=96 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=43 velocity=0 time=0
+note_on channel=0 note=43 velocity=96 time=0
+note_off channel=0 note=43 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=480
+note_on channel=0 note=44 velocity=127 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=44 velocity=0 time=0
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_on channel=0 note=43 velocity=96 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=43 velocity=0 time=0
+note_on channel=0 note=43 velocity=96 time=0
+note_off channel=0 note=43 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=480
+note_on channel=0 note=44 velocity=127 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=44 velocity=0 time=0
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_on channel=0 note=43 velocity=96 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=43 velocity=0 time=0
+note_on channel=0 note=43 velocity=96 time=0
+note_off channel=0 note=43 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=480
+note_on channel=0 note=44 velocity=127 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=44 velocity=0 time=0
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+note_on channel=0 note=45 velocity=127 time=240
+note_on channel=0 note=43 velocity=96 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=43 velocity=0 time=0
+note_on channel=0 note=43 velocity=96 time=0
+note_off channel=0 note=43 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=240
+note_on channel=0 note=45 velocity=127 time=480
+note_on channel=0 note=44 velocity=127 time=480
+note_off channel=0 note=45 velocity=0 time=240
+note_off channel=0 note=44 velocity=0 time=0
+note_on channel=0 note=45 velocity=127 time=240
+note_off channel=0 note=45 velocity=0 time=720
+MetaMessage('end_of_track', time=0)
+Track 4: AudiblePlanets-pads_v-18.7dB
+MetaMessage('track_name', name='AudiblePlanets-pads_v-18.7dB', time=0)
+note_on channel=1 note=53 velocity=127 time=12960
+note_on channel=1 note=48 velocity=127 time=0
+note_off channel=1 note=48 velocity=0 time=720
+note_off channel=1 note=53 velocity=0 time=33
+note_on channel=1 note=53 velocity=121 time=3087
+note_on channel=1 note=48 velocity=121 time=0
+note_off channel=1 note=48 velocity=0 time=720
+note_off channel=1 note=53 velocity=0 time=33
+note_on channel=1 note=49 velocity=127 time=1647
+note_on channel=1 note=56 velocity=127 time=720
+note_off channel=1 note=49 velocity=0 time=162
+note_on channel=1 note=74 velocity=127 time=558
+note_off channel=1 note=56 velocity=0 time=65
+note_off channel=1 note=74 velocity=0 time=753
+note_on channel=1 note=58 velocity=127 time=142
+note_off channel=1 note=58 velocity=0 time=784
+note_on channel=1 note=49 velocity=127 time=17936
+note_on channel=1 note=56 velocity=127 time=720
+note_off channel=1 note=49 velocity=0 time=162
+note_on channel=1 note=74 velocity=127 time=558
+note_off channel=1 note=56 velocity=0 time=65
+note_off channel=1 note=74 velocity=0 time=753
+note_on channel=1 note=58 velocity=127 time=142
+note_off channel=1 note=58 velocity=0 time=784
+MetaMessage('end_of_track', time=0)
+Track 5: Dexed-bass_v-24dB
+MetaMessage('track_name', name='Dexed-bass_v-24dB', time=0)
+pitchwheel channel=0 pitch=-830 time=6720
+note_on channel=0 note=37 velocity=127 time=0
+note_off channel=0 note=37 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=602
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=35 velocity=127 time=602
+note_off channel=0 note=35 velocity=0 time=118
+note_on channel=0 note=36 velocity=127 time=122
+note_off channel=0 note=36 velocity=0 time=118
+note_on channel=0 note=43 velocity=127 time=122
+note_off channel=0 note=43 velocity=0 time=240
+note_on channel=0 note=40 velocity=127 time=240
+note_off channel=0 note=40 velocity=0 time=118
+note_on channel=0 note=31 velocity=127 time=122
+note_off channel=0 note=31 velocity=0 time=240
+note_on channel=0 note=38 velocity=127 time=240
+note_off channel=0 note=38 velocity=0 time=118
+note_on channel=0 note=35 velocity=127 time=122
+pitchwheel channel=0 pitch=-327 time=255
+pitchwheel channel=0 pitch=-654 time=7
+pitchwheel channel=0 pitch=-981 time=7
+pitchwheel channel=0 pitch=-1308 time=7
+pitchwheel channel=0 pitch=-1635 time=6
+pitchwheel channel=0 pitch=-2289 time=13
+pitchwheel channel=0 pitch=-2616 time=7
+pitchwheel channel=0 pitch=-2943 time=7
+pitchwheel channel=0 pitch=-3270 time=7
+pitchwheel channel=0 pitch=-3597 time=6
+pitchwheel channel=0 pitch=-4251 time=8
+pitchwheel channel=0 pitch=-4578 time=7
+pitchwheel channel=0 pitch=-4905 time=6
+pitchwheel channel=0 pitch=-5232 time=7
+pitchwheel channel=0 pitch=-5559 time=7
+pitchwheel channel=0 pitch=-5886 time=12
+pitchwheel channel=0 pitch=-6213 time=6
+pitchwheel channel=0 pitch=-6540 time=7
+pitchwheel channel=0 pitch=-6867 time=7
+pitchwheel channel=0 pitch=-7194 time=7
+pitchwheel channel=0 pitch=-7521 time=6
+pitchwheel channel=0 pitch=-7848 time=7
+pitchwheel channel=0 pitch=-8175 time=7
+pitchwheel channel=0 pitch=-8192 time=6
+note_off channel=0 note=35 velocity=0 time=176
+pitchwheel channel=0 pitch=-1962 time=45
+pitchwheel channel=0 pitch=-3924 time=39
+note_on channel=0 note=38 velocity=127 time=278
+pitchwheel channel=0 pitch=-7783 time=111
+pitchwheel channel=0 pitch=-7374 time=7
+pitchwheel channel=0 pitch=-6965 time=6
+pitchwheel channel=0 pitch=-6556 time=7
+pitchwheel channel=0 pitch=-6147 time=7
+pitchwheel channel=0 pitch=-5738 time=7
+pitchwheel channel=0 pitch=-5329 time=6
+pitchwheel channel=0 pitch=-4920 time=6
+pitchwheel channel=0 pitch=-4511 time=7
+pitchwheel channel=0 pitch=-4102 time=7
+pitchwheel channel=0 pitch=-3693 time=6
+pitchwheel channel=0 pitch=-3284 time=13
+pitchwheel channel=0 pitch=-2875 time=7
+pitchwheel channel=0 pitch=-2466 time=6
+pitchwheel channel=0 pitch=-2057 time=7
+pitchwheel channel=0 pitch=-1648 time=7
+pitchwheel channel=0 pitch=-1239 time=6
+pitchwheel channel=0 pitch=-421 time=8
+pitchwheel channel=0 pitch=-12 time=7
+pitchwheel channel=0 pitch=0 time=7
+note_off channel=0 note=38 velocity=0 time=113
+note_on channel=0 note=43 velocity=127 time=122
+pitchwheel channel=0 pitch=-830 time=100
+note_off channel=0 note=43 velocity=0 time=380
+note_on channel=0 note=38 velocity=127 time=0
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=602
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=37 velocity=127 time=122
+note_off channel=0 note=37 velocity=0 time=358
+note_on channel=0 note=37 velocity=127 time=122
+note_off channel=0 note=37 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=602
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=35 velocity=127 time=602
+note_off channel=0 note=35 velocity=0 time=118
+note_on channel=0 note=36 velocity=127 time=122
+note_off channel=0 note=36 velocity=0 time=118
+note_on channel=0 note=43 velocity=127 time=122
+note_off channel=0 note=43 velocity=0 time=240
+note_on channel=0 note=40 velocity=127 time=240
+note_off channel=0 note=40 velocity=0 time=118
+note_on channel=0 note=31 velocity=127 time=122
+note_off channel=0 note=31 velocity=0 time=240
+note_on channel=0 note=38 velocity=127 time=240
+note_off channel=0 note=38 velocity=0 time=118
+note_on channel=0 note=35 velocity=127 time=122
+pitchwheel channel=0 pitch=-327 time=255
+pitchwheel channel=0 pitch=-654 time=7
+pitchwheel channel=0 pitch=-981 time=7
+pitchwheel channel=0 pitch=-1308 time=7
+pitchwheel channel=0 pitch=-1635 time=6
+pitchwheel channel=0 pitch=-2289 time=13
+pitchwheel channel=0 pitch=-2616 time=7
+pitchwheel channel=0 pitch=-2943 time=7
+pitchwheel channel=0 pitch=-3270 time=7
+pitchwheel channel=0 pitch=-3597 time=6
+pitchwheel channel=0 pitch=-4251 time=8
+pitchwheel channel=0 pitch=-4578 time=7
+pitchwheel channel=0 pitch=-4905 time=6
+pitchwheel channel=0 pitch=-5232 time=7
+pitchwheel channel=0 pitch=-5559 time=7
+pitchwheel channel=0 pitch=-5886 time=12
+pitchwheel channel=0 pitch=-6213 time=6
+pitchwheel channel=0 pitch=-6540 time=7
+pitchwheel channel=0 pitch=-6867 time=7
+pitchwheel channel=0 pitch=-7194 time=7
+pitchwheel channel=0 pitch=-7521 time=6
+pitchwheel channel=0 pitch=-7848 time=7
+pitchwheel channel=0 pitch=-8175 time=7
+pitchwheel channel=0 pitch=-8192 time=6
+note_off channel=0 note=35 velocity=0 time=176
+pitchwheel channel=0 pitch=-1962 time=45
+pitchwheel channel=0 pitch=-3924 time=39
+note_on channel=0 note=38 velocity=127 time=4118
+pitchwheel channel=0 pitch=-7783 time=111
+pitchwheel channel=0 pitch=-7374 time=7
+pitchwheel channel=0 pitch=-6965 time=6
+pitchwheel channel=0 pitch=-6556 time=7
+pitchwheel channel=0 pitch=-6147 time=7
+pitchwheel channel=0 pitch=-5738 time=7
+pitchwheel channel=0 pitch=-5329 time=6
+pitchwheel channel=0 pitch=-4920 time=6
+pitchwheel channel=0 pitch=-4511 time=7
+pitchwheel channel=0 pitch=-4102 time=7
+pitchwheel channel=0 pitch=-3693 time=6
+pitchwheel channel=0 pitch=-3284 time=13
+pitchwheel channel=0 pitch=-2875 time=7
+pitchwheel channel=0 pitch=-2466 time=6
+pitchwheel channel=0 pitch=-2057 time=7
+pitchwheel channel=0 pitch=-1648 time=7
+pitchwheel channel=0 pitch=-1239 time=6
+pitchwheel channel=0 pitch=-421 time=8
+pitchwheel channel=0 pitch=-12 time=7
+pitchwheel channel=0 pitch=0 time=7
+note_off channel=0 note=38 velocity=0 time=113
+note_on channel=0 note=43 velocity=127 time=122
+pitchwheel channel=0 pitch=-830 time=100
+note_off channel=0 note=43 velocity=0 time=380
+note_on channel=0 note=38 velocity=127 time=0
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=602
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=37 velocity=127 time=122
+note_off channel=0 note=37 velocity=0 time=358
+note_on channel=0 note=37 velocity=127 time=122
+note_off channel=0 note=37 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=602
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=3482
+pitchwheel channel=0 pitch=-7783 time=111
+pitchwheel channel=0 pitch=-7374 time=7
+pitchwheel channel=0 pitch=-6965 time=6
+pitchwheel channel=0 pitch=-6556 time=7
+pitchwheel channel=0 pitch=-6147 time=7
+pitchwheel channel=0 pitch=-5738 time=7
+pitchwheel channel=0 pitch=-5329 time=6
+pitchwheel channel=0 pitch=-4920 time=6
+pitchwheel channel=0 pitch=-4511 time=7
+pitchwheel channel=0 pitch=-4102 time=7
+pitchwheel channel=0 pitch=-3693 time=6
+pitchwheel channel=0 pitch=-3284 time=13
+pitchwheel channel=0 pitch=-2875 time=7
+pitchwheel channel=0 pitch=-2466 time=6
+pitchwheel channel=0 pitch=-2057 time=7
+pitchwheel channel=0 pitch=-1648 time=7
+pitchwheel channel=0 pitch=-1239 time=6
+pitchwheel channel=0 pitch=-421 time=8
+pitchwheel channel=0 pitch=-12 time=7
+pitchwheel channel=0 pitch=0 time=7
+note_off channel=0 note=38 velocity=0 time=113
+note_on channel=0 note=43 velocity=127 time=122
+pitchwheel channel=0 pitch=-830 time=100
+note_off channel=0 note=43 velocity=0 time=380
+note_on channel=0 note=38 velocity=127 time=0
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=602
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=37 velocity=127 time=122
+note_off channel=0 note=37 velocity=0 time=358
+note_on channel=0 note=37 velocity=127 time=122
+note_off channel=0 note=37 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=602
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=35 velocity=127 time=602
+note_off channel=0 note=35 velocity=0 time=118
+note_on channel=0 note=36 velocity=127 time=122
+note_off channel=0 note=36 velocity=0 time=118
+note_on channel=0 note=43 velocity=127 time=122
+note_off channel=0 note=43 velocity=0 time=240
+note_on channel=0 note=40 velocity=127 time=240
+note_off channel=0 note=40 velocity=0 time=118
+note_on channel=0 note=31 velocity=127 time=122
+note_off channel=0 note=31 velocity=0 time=240
+note_on channel=0 note=38 velocity=127 time=240
+note_off channel=0 note=38 velocity=0 time=118
+note_on channel=0 note=35 velocity=127 time=122
+pitchwheel channel=0 pitch=-327 time=255
+pitchwheel channel=0 pitch=-654 time=7
+pitchwheel channel=0 pitch=-981 time=7
+pitchwheel channel=0 pitch=-1308 time=7
+pitchwheel channel=0 pitch=-1635 time=6
+pitchwheel channel=0 pitch=-2289 time=13
+pitchwheel channel=0 pitch=-2616 time=7
+pitchwheel channel=0 pitch=-2943 time=7
+pitchwheel channel=0 pitch=-3270 time=7
+pitchwheel channel=0 pitch=-3597 time=6
+pitchwheel channel=0 pitch=-4251 time=8
+pitchwheel channel=0 pitch=-4578 time=7
+pitchwheel channel=0 pitch=-4905 time=6
+pitchwheel channel=0 pitch=-5232 time=7
+pitchwheel channel=0 pitch=-5559 time=7
+pitchwheel channel=0 pitch=-5886 time=12
+pitchwheel channel=0 pitch=-6213 time=6
+pitchwheel channel=0 pitch=-6540 time=7
+pitchwheel channel=0 pitch=-6867 time=7
+pitchwheel channel=0 pitch=-7194 time=7
+pitchwheel channel=0 pitch=-7521 time=6
+pitchwheel channel=0 pitch=-7848 time=7
+pitchwheel channel=0 pitch=-8175 time=7
+pitchwheel channel=0 pitch=-8192 time=6
+note_off channel=0 note=35 velocity=0 time=176
+pitchwheel channel=0 pitch=-1962 time=45
+pitchwheel channel=0 pitch=-3924 time=39
+note_on channel=0 note=38 velocity=127 time=278
+pitchwheel channel=0 pitch=-7783 time=111
+pitchwheel channel=0 pitch=-7374 time=7
+pitchwheel channel=0 pitch=-6965 time=6
+pitchwheel channel=0 pitch=-6556 time=7
+pitchwheel channel=0 pitch=-6147 time=7
+pitchwheel channel=0 pitch=-5738 time=7
+pitchwheel channel=0 pitch=-5329 time=6
+pitchwheel channel=0 pitch=-4920 time=6
+pitchwheel channel=0 pitch=-4511 time=7
+pitchwheel channel=0 pitch=-4102 time=7
+pitchwheel channel=0 pitch=-3693 time=6
+pitchwheel channel=0 pitch=-3284 time=13
+pitchwheel channel=0 pitch=-2875 time=7
+pitchwheel channel=0 pitch=-2466 time=6
+pitchwheel channel=0 pitch=-2057 time=7
+pitchwheel channel=0 pitch=-1648 time=7
+pitchwheel channel=0 pitch=-1239 time=6
+pitchwheel channel=0 pitch=-421 time=8
+pitchwheel channel=0 pitch=-12 time=7
+pitchwheel channel=0 pitch=0 time=7
+note_off channel=0 note=38 velocity=0 time=113
+note_on channel=0 note=43 velocity=127 time=122
+pitchwheel channel=0 pitch=-830 time=100
+note_off channel=0 note=43 velocity=0 time=380
+note_on channel=0 note=38 velocity=127 time=0
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=602
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=37 velocity=127 time=122
+note_off channel=0 note=37 velocity=0 time=358
+note_on channel=0 note=37 velocity=127 time=122
+note_off channel=0 note=37 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=602
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=35 velocity=127 time=602
+note_off channel=0 note=35 velocity=0 time=118
+note_on channel=0 note=36 velocity=127 time=122
+note_off channel=0 note=36 velocity=0 time=118
+note_on channel=0 note=43 velocity=127 time=122
+note_off channel=0 note=43 velocity=0 time=240
+note_on channel=0 note=40 velocity=127 time=240
+note_off channel=0 note=40 velocity=0 time=118
+note_on channel=0 note=31 velocity=127 time=122
+note_off channel=0 note=31 velocity=0 time=240
+note_on channel=0 note=38 velocity=127 time=240
+note_off channel=0 note=38 velocity=0 time=118
+note_on channel=0 note=35 velocity=127 time=122
+pitchwheel channel=0 pitch=-327 time=255
+pitchwheel channel=0 pitch=-654 time=7
+pitchwheel channel=0 pitch=-981 time=7
+pitchwheel channel=0 pitch=-1308 time=7
+pitchwheel channel=0 pitch=-1635 time=6
+pitchwheel channel=0 pitch=-2289 time=13
+pitchwheel channel=0 pitch=-2616 time=7
+pitchwheel channel=0 pitch=-2943 time=7
+pitchwheel channel=0 pitch=-3270 time=7
+pitchwheel channel=0 pitch=-3597 time=6
+pitchwheel channel=0 pitch=-4251 time=8
+pitchwheel channel=0 pitch=-4578 time=7
+pitchwheel channel=0 pitch=-4905 time=6
+pitchwheel channel=0 pitch=-5232 time=7
+pitchwheel channel=0 pitch=-5559 time=7
+pitchwheel channel=0 pitch=-5886 time=12
+pitchwheel channel=0 pitch=-6213 time=6
+pitchwheel channel=0 pitch=-6540 time=7
+pitchwheel channel=0 pitch=-6867 time=7
+pitchwheel channel=0 pitch=-7194 time=7
+pitchwheel channel=0 pitch=-7521 time=6
+pitchwheel channel=0 pitch=-7848 time=7
+pitchwheel channel=0 pitch=-8175 time=7
+pitchwheel channel=0 pitch=-8192 time=6
+note_off channel=0 note=35 velocity=0 time=176
+pitchwheel channel=0 pitch=-1962 time=45
+pitchwheel channel=0 pitch=-3924 time=39
+note_on channel=0 note=38 velocity=127 time=278
+pitchwheel channel=0 pitch=-7783 time=111
+pitchwheel channel=0 pitch=-7374 time=7
+pitchwheel channel=0 pitch=-6965 time=6
+pitchwheel channel=0 pitch=-6556 time=7
+pitchwheel channel=0 pitch=-6147 time=7
+pitchwheel channel=0 pitch=-5738 time=7
+pitchwheel channel=0 pitch=-5329 time=6
+pitchwheel channel=0 pitch=-4920 time=6
+pitchwheel channel=0 pitch=-4511 time=7
+pitchwheel channel=0 pitch=-4102 time=7
+pitchwheel channel=0 pitch=-3693 time=6
+pitchwheel channel=0 pitch=-3284 time=13
+pitchwheel channel=0 pitch=-2875 time=7
+pitchwheel channel=0 pitch=-2466 time=6
+pitchwheel channel=0 pitch=-2057 time=7
+pitchwheel channel=0 pitch=-1648 time=7
+pitchwheel channel=0 pitch=-1239 time=6
+pitchwheel channel=0 pitch=-421 time=8
+pitchwheel channel=0 pitch=-12 time=7
+pitchwheel channel=0 pitch=0 time=7
+note_off channel=0 note=38 velocity=0 time=113
+note_on channel=0 note=43 velocity=127 time=122
+pitchwheel channel=0 pitch=-830 time=100
+note_off channel=0 note=43 velocity=0 time=380
+note_on channel=0 note=38 velocity=127 time=0
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=602
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=37 velocity=127 time=122
+note_off channel=0 note=37 velocity=0 time=358
+note_on channel=0 note=37 velocity=127 time=122
+note_off channel=0 note=37 velocity=0 time=358
+note_on channel=0 note=38 velocity=127 time=602
+note_off channel=0 note=38 velocity=0 time=358
+note_on channel=0 note=35 velocity=127 time=602
+note_off channel=0 note=35 velocity=0 time=118
+note_on channel=0 note=36 velocity=127 time=122
+note_off channel=0 note=36 velocity=0 time=118
+note_on channel=0 note=43 velocity=127 time=122
+note_off channel=0 note=43 velocity=0 time=240
+note_on channel=0 note=40 velocity=127 time=240
+note_off channel=0 note=40 velocity=0 time=118
+note_on channel=0 note=31 velocity=127 time=122
+note_off channel=0 note=31 velocity=0 time=240
+note_on channel=0 note=38 velocity=127 time=240
+note_off channel=0 note=38 velocity=0 time=118
+note_on channel=0 note=35 velocity=127 time=122
+pitchwheel channel=0 pitch=-327 time=255
+pitchwheel channel=0 pitch=-654 time=7
+pitchwheel channel=0 pitch=-981 time=7
+pitchwheel channel=0 pitch=-1308 time=7
+pitchwheel channel=0 pitch=-1635 time=6
+pitchwheel channel=0 pitch=-2289 time=13
+pitchwheel channel=0 pitch=-2616 time=7
+pitchwheel channel=0 pitch=-2943 time=7
+pitchwheel channel=0 pitch=-3270 time=7
+pitchwheel channel=0 pitch=-3597 time=6
+pitchwheel channel=0 pitch=-4251 time=8
+pitchwheel channel=0 pitch=-4578 time=7
+pitchwheel channel=0 pitch=-4905 time=6
+pitchwheel channel=0 pitch=-5232 time=7
+pitchwheel channel=0 pitch=-5559 time=7
+pitchwheel channel=0 pitch=-5886 time=12
+pitchwheel channel=0 pitch=-6213 time=6
+pitchwheel channel=0 pitch=-6540 time=7
+pitchwheel channel=0 pitch=-6867 time=7
+pitchwheel channel=0 pitch=-7194 time=7
+pitchwheel channel=0 pitch=-7521 time=6
+pitchwheel channel=0 pitch=-7848 time=7
+pitchwheel channel=0 pitch=-8175 time=7
+pitchwheel channel=0 pitch=-8192 time=6
+note_off channel=0 note=35 velocity=0 time=176
+pitchwheel channel=0 pitch=-1962 time=45
+pitchwheel channel=0 pitch=-3924 time=39
+MetaMessage('end_of_track', time=0)
+Track 6: AudiblePlanets-Lead_v-18dB
+MetaMessage('track_name', name='AudiblePlanets-Lead_v-18dB', time=0)
+note_on channel=0 note=38 velocity=127 time=1564
+note_on channel=0 note=50 velocity=127 time=1040
+note_on channel=0 note=53 velocity=127 time=981
+note_off channel=0 note=38 velocity=64 time=244
+pitchwheel channel=0 pitch=327 time=1082
+pitchwheel channel=0 pitch=654 time=1
+pitchwheel channel=0 pitch=981 time=2
+pitchwheel channel=0 pitch=1308 time=6
+pitchwheel channel=0 pitch=1635 time=7
+pitchwheel channel=0 pitch=1962 time=7
+pitchwheel channel=0 pitch=2289 time=6
+pitchwheel channel=0 pitch=2616 time=12
+pitchwheel channel=0 pitch=2943 time=7
+pitchwheel channel=0 pitch=3270 time=7
+pitchwheel channel=0 pitch=3597 time=7
+pitchwheel channel=0 pitch=3924 time=6
+pitchwheel channel=0 pitch=4251 time=12
+pitchwheel channel=0 pitch=4578 time=7
+pitchwheel channel=0 pitch=4905 time=6
+pitchwheel channel=0 pitch=5232 time=7
+pitchwheel channel=0 pitch=5559 time=6
+pitchwheel channel=0 pitch=5886 time=7
+pitchwheel channel=0 pitch=6213 time=5
+pitchwheel channel=0 pitch=6540 time=0
+pitchwheel channel=0 pitch=6867 time=5
+pitchwheel channel=0 pitch=7194 time=6
+pitchwheel channel=0 pitch=7521 time=7
+pitchwheel channel=0 pitch=7848 time=7
+pitchwheel channel=0 pitch=8175 time=6
+pitchwheel channel=0 pitch=8191 time=13
+pitchwheel channel=0 pitch=7782 time=3350
+pitchwheel channel=0 pitch=7373 time=0
+pitchwheel channel=0 pitch=6964 time=3
+pitchwheel channel=0 pitch=6555 time=7
+pitchwheel channel=0 pitch=6146 time=7
+pitchwheel channel=0 pitch=5737 time=7
+pitchwheel channel=0 pitch=5328 time=6
+pitchwheel channel=0 pitch=4919 time=12
+pitchwheel channel=0 pitch=4510 time=7
+pitchwheel channel=0 pitch=4101 time=7
+pitchwheel channel=0 pitch=3692 time=7
+pitchwheel channel=0 pitch=3283 time=6
+pitchwheel channel=0 pitch=2874 time=12
+pitchwheel channel=0 pitch=2465 time=7
+pitchwheel channel=0 pitch=2056 time=7
+pitchwheel channel=0 pitch=1647 time=7
+pitchwheel channel=0 pitch=1238 time=6
+pitchwheel channel=0 pitch=829 time=7
+pitchwheel channel=0 pitch=502 time=2
+pitchwheel channel=0 pitch=175 time=0
+pitchwheel channel=0 pitch=-152 time=7
+pitchwheel channel=0 pitch=-479 time=6
+pitchwheel channel=0 pitch=-806 time=7
+pitchwheel channel=0 pitch=-1133 time=7
+pitchwheel channel=0 pitch=-1460 time=12
+pitchwheel channel=0 pitch=-1787 time=7
+pitchwheel channel=0 pitch=-2114 time=6
+pitchwheel channel=0 pitch=-2441 time=7
+pitchwheel channel=0 pitch=-2768 time=7
+pitchwheel channel=0 pitch=-3095 time=7
+pitchwheel channel=0 pitch=-3422 time=12
+pitchwheel channel=0 pitch=-3749 time=6
+pitchwheel channel=0 pitch=-4076 time=7
+pitchwheel channel=0 pitch=-4403 time=7
+pitchwheel channel=0 pitch=-4730 time=6
+pitchwheel channel=0 pitch=-5057 time=6
+pitchwheel channel=0 pitch=-5384 time=0
+pitchwheel channel=0 pitch=-5711 time=4
+pitchwheel channel=0 pitch=-6038 time=6
+pitchwheel channel=0 pitch=-6365 time=7
+pitchwheel channel=0 pitch=-6692 time=6
+pitchwheel channel=0 pitch=-7019 time=7
+pitchwheel channel=0 pitch=-7346 time=12
+pitchwheel channel=0 pitch=-7673 time=7
+pitchwheel channel=0 pitch=-8000 time=7
+pitchwheel channel=0 pitch=-8192 time=7
+note_on channel=0 note=57 velocity=127 time=424
+note_off channel=0 note=50 velocity=64 time=67
+note_off channel=0 note=53 velocity=64 time=70
+pitchwheel channel=0 pitch=-7783 time=1154
+pitchwheel channel=0 pitch=-7374 time=7
+pitchwheel channel=0 pitch=-6965 time=12
+pitchwheel channel=0 pitch=-6556 time=7
+pitchwheel channel=0 pitch=-6147 time=7
+pitchwheel channel=0 pitch=-5738 time=6
+pitchwheel channel=0 pitch=-5329 time=7
+pitchwheel channel=0 pitch=-4920 time=7
+pitchwheel channel=0 pitch=-4511 time=2
+pitchwheel channel=0 pitch=-4102 time=0
+pitchwheel channel=0 pitch=-3693 time=7
+pitchwheel channel=0 pitch=-3284 time=6
+pitchwheel channel=0 pitch=-2875 time=7
+pitchwheel channel=0 pitch=-2466 time=7
+pitchwheel channel=0 pitch=-2057 time=7
+pitchwheel channel=0 pitch=-1648 time=11
+pitchwheel channel=0 pitch=-1239 time=7
+pitchwheel channel=0 pitch=-830 time=7
+pitchwheel channel=0 pitch=-421 time=7
+pitchwheel channel=0 pitch=-12 time=6
+pitchwheel channel=0 pitch=0 time=13
+pitchwheel channel=0 pitch=-327 time=1563
+pitchwheel channel=0 pitch=-654 time=7
+pitchwheel channel=0 pitch=-981 time=7
+pitchwheel channel=0 pitch=-1308 time=6
+pitchwheel channel=0 pitch=-1635 time=7
+pitchwheel channel=0 pitch=-1962 time=2
+pitchwheel channel=0 pitch=-2289 time=0
+pitchwheel channel=0 pitch=-2616 time=7
+pitchwheel channel=0 pitch=-2943 time=7
+pitchwheel channel=0 pitch=-2534 time=6
+pitchwheel channel=0 pitch=-2125 time=7
+pitchwheel channel=0 pitch=-1716 time=6
+pitchwheel channel=0 pitch=-1307 time=13
+pitchwheel channel=0 pitch=-898 time=6
+pitchwheel channel=0 pitch=-489 time=7
+pitchwheel channel=0 pitch=-80 time=7
+pitchwheel channel=0 pitch=0 time=7
+pitchwheel channel=0 pitch=-327 time=181
+pitchwheel channel=0 pitch=-654 time=6
+pitchwheel channel=0 pitch=-981 time=7
+pitchwheel channel=0 pitch=-1308 time=13
+pitchwheel channel=0 pitch=-1635 time=6
+pitchwheel channel=0 pitch=-1962 time=7
+pitchwheel channel=0 pitch=-1553 time=7
+pitchwheel channel=0 pitch=-1144 time=6
+pitchwheel channel=0 pitch=-735 time=12
+pitchwheel channel=0 pitch=-326 time=7
+pitchwheel channel=0 pitch=0 time=7
+pitchwheel channel=0 pitch=-327 time=221
+pitchwheel channel=0 pitch=-654 time=6
+pitchwheel channel=0 pitch=-981 time=7
+pitchwheel channel=0 pitch=-1308 time=7
+pitchwheel channel=0 pitch=-1635 time=6
+pitchwheel channel=0 pitch=-1962 time=13
+pitchwheel channel=0 pitch=-2289 time=6
+pitchwheel channel=0 pitch=-2616 time=7
+pitchwheel channel=0 pitch=-2943 time=7
+pitchwheel channel=0 pitch=-3270 time=6
+pitchwheel channel=0 pitch=-3597 time=7
+pitchwheel channel=0 pitch=-3924 time=0
+pitchwheel channel=0 pitch=-4251 time=2
+pitchwheel channel=0 pitch=-4578 time=7
+pitchwheel channel=0 pitch=-4905 time=7
+pitchwheel channel=0 pitch=-5232 time=7
+pitchwheel channel=0 pitch=-5559 time=6
+pitchwheel channel=0 pitch=-5886 time=12
+pitchwheel channel=0 pitch=-6213 time=7
+pitchwheel channel=0 pitch=-6540 time=7
+pitchwheel channel=0 pitch=-6867 time=6
+pitchwheel channel=0 pitch=-7194 time=7
+pitchwheel channel=0 pitch=-7521 time=12
+pitchwheel channel=0 pitch=-7848 time=7
+pitchwheel channel=0 pitch=-8175 time=7
+pitchwheel channel=0 pitch=-8192 time=7
+pitchwheel channel=0 pitch=-7783 time=35
+pitchwheel channel=0 pitch=-7374 time=7
+pitchwheel channel=0 pitch=-6965 time=6
+pitchwheel channel=0 pitch=-6556 time=12
+pitchwheel channel=0 pitch=-6147 time=7
+pitchwheel channel=0 pitch=-5738 time=7
+pitchwheel channel=0 pitch=-5329 time=6
+pitchwheel channel=0 pitch=-4920 time=7
+pitchwheel channel=0 pitch=-4511 time=13
+pitchwheel channel=0 pitch=-4102 time=6
+pitchwheel channel=0 pitch=-3693 time=7
+pitchwheel channel=0 pitch=-3284 time=7
+pitchwheel channel=0 pitch=-2875 time=7
+pitchwheel channel=0 pitch=-2466 time=6
+pitchwheel channel=0 pitch=-2057 time=0
+pitchwheel channel=0 pitch=-1648 time=2
+pitchwheel channel=0 pitch=-1239 time=7
+pitchwheel channel=0 pitch=-830 time=7
+pitchwheel channel=0 pitch=-421 time=6
+pitchwheel channel=0 pitch=-12 time=7
+pitchwheel channel=0 pitch=0 time=12
+note_off channel=0 note=57 velocity=64 time=420
+note_on channel=0 note=45 velocity=127 time=5556
+pitchwheel channel=0 pitch=-327 time=1331
+pitchwheel channel=0 pitch=-654 time=7
+pitchwheel channel=0 pitch=-981 time=6
+pitchwheel channel=0 pitch=-1308 time=7
+pitchwheel channel=0 pitch=-1635 time=5
+pitchwheel channel=0 pitch=-1962 time=0
+pitchwheel channel=0 pitch=-2289 time=3
+pitchwheel channel=0 pitch=-2616 time=7
+pitchwheel channel=0 pitch=-2943 time=7
+pitchwheel channel=0 pitch=-3270 time=6
+pitchwheel channel=0 pitch=-3597 time=7
+pitchwheel channel=0 pitch=-3924 time=12
+pitchwheel channel=0 pitch=-4251 time=7
+pitchwheel channel=0 pitch=-4578 time=7
+pitchwheel channel=0 pitch=-4905 time=6
+pitchwheel channel=0 pitch=-5232 time=7
+pitchwheel channel=0 pitch=-5559 time=12
+pitchwheel channel=0 pitch=-5886 time=7
+pitchwheel channel=0 pitch=-6213 time=6
+pitchwheel channel=0 pitch=-6540 time=7
+pitchwheel channel=0 pitch=-6867 time=7
+pitchwheel channel=0 pitch=-7194 time=7
+pitchwheel channel=0 pitch=-7521 time=2
+pitchwheel channel=0 pitch=-7848 time=0
+pitchwheel channel=0 pitch=-8175 time=7
+pitchwheel channel=0 pitch=-8192 time=6
+pitchwheel channel=0 pitch=-7783 time=2737
+pitchwheel channel=0 pitch=-7374 time=7
+pitchwheel channel=0 pitch=-6965 time=7
+note_off channel=0 note=45 velocity=64 time=9
+pitchwheel channel=0 pitch=-6556 time=2
+pitchwheel channel=0 pitch=-6147 time=7
+pitchwheel channel=0 pitch=-5738 time=7
+pitchwheel channel=0 pitch=-5329 time=7
+pitchwheel channel=0 pitch=-4920 time=7
+pitchwheel channel=0 pitch=-4511 time=5
+pitchwheel channel=0 pitch=-4102 time=0
+pitchwheel channel=0 pitch=-3693 time=3
+pitchwheel channel=0 pitch=-3284 time=7
+pitchwheel channel=0 pitch=-2875 time=7
+pitchwheel channel=0 pitch=-2466 time=6
+pitchwheel channel=0 pitch=-2057 time=7
+pitchwheel channel=0 pitch=-1648 time=12
+pitchwheel channel=0 pitch=-1239 time=7
+pitchwheel channel=0 pitch=-830 time=7
+pitchwheel channel=0 pitch=-421 time=7
+pitchwheel channel=0 pitch=-12 time=6
+pitchwheel channel=0 pitch=0 time=12
+note_on channel=0 note=50 velocity=127 time=1155
+pitchwheel channel=0 pitch=327 time=1191
+pitchwheel channel=0 pitch=654 time=7
+pitchwheel channel=0 pitch=981 time=7
+pitchwheel channel=0 pitch=1308 time=7
+pitchwheel channel=0 pitch=1635 time=12
+pitchwheel channel=0 pitch=1962 time=6
+pitchwheel channel=0 pitch=2289 time=7
+pitchwheel channel=0 pitch=2616 time=7
+pitchwheel channel=0 pitch=2943 time=7
+pitchwheel channel=0 pitch=3270 time=12
+pitchwheel channel=0 pitch=3597 time=6
+pitchwheel channel=0 pitch=3924 time=7
+pitchwheel channel=0 pitch=4251 time=7
+pitchwheel channel=0 pitch=4578 time=6
+pitchwheel channel=0 pitch=4905 time=7
+pitchwheel channel=0 pitch=5232 time=4
+pitchwheel channel=0 pitch=5559 time=0
+pitchwheel channel=0 pitch=5886 time=6
+pitchwheel channel=0 pitch=6213 time=6
+pitchwheel channel=0 pitch=6540 time=7
+pitchwheel channel=0 pitch=6867 time=7
+pitchwheel channel=0 pitch=7194 time=7
+pitchwheel channel=0 pitch=7521 time=11
+pitchwheel channel=0 pitch=7848 time=7
+pitchwheel channel=0 pitch=8175 time=7
+pitchwheel channel=0 pitch=8191 time=7
+note_on channel=0 note=53 velocity=127 time=378
+pitchwheel channel=0 pitch=7782 time=330
+pitchwheel channel=0 pitch=7373 time=13
+pitchwheel channel=0 pitch=6964 time=6
+pitchwheel channel=0 pitch=6555 time=7
+pitchwheel channel=0 pitch=6146 time=7
+pitchwheel channel=0 pitch=5737 time=7
+pitchwheel channel=0 pitch=5328 time=11
+pitchwheel channel=0 pitch=4919 time=7
+pitchwheel channel=0 pitch=4510 time=8
+pitchwheel channel=0 pitch=4101 time=6
+pitchwheel channel=0 pitch=3692 time=7
+pitchwheel channel=0 pitch=3283 time=6
+pitchwheel channel=0 pitch=2874 time=0
+pitchwheel channel=0 pitch=2465 time=2
+pitchwheel channel=0 pitch=2056 time=7
+pitchwheel channel=0 pitch=1647 time=6
+pitchwheel channel=0 pitch=1238 time=7
+pitchwheel channel=0 pitch=829 time=7
+pitchwheel channel=0 pitch=420 time=12
+pitchwheel channel=0 pitch=11 time=7
+pitchwheel channel=0 pitch=0 time=6
+pitchwheel channel=0 pitch=327 time=536
+pitchwheel channel=0 pitch=654 time=7
+pitchwheel channel=0 pitch=981 time=6
+pitchwheel channel=0 pitch=1308 time=7
+pitchwheel channel=0 pitch=1635 time=7
+pitchwheel channel=0 pitch=1962 time=12
+pitchwheel channel=0 pitch=2289 time=7
+pitchwheel channel=0 pitch=2616 time=7
+pitchwheel channel=0 pitch=2943 time=6
+pitchwheel channel=0 pitch=3270 time=7
+pitchwheel channel=0 pitch=3597 time=12
+pitchwheel channel=0 pitch=3924 time=7
+pitchwheel channel=0 pitch=4251 time=7
+pitchwheel channel=0 pitch=4578 time=7
+pitchwheel channel=0 pitch=4905 time=6
+pitchwheel channel=0 pitch=5232 time=7
+pitchwheel channel=0 pitch=5559 time=0
+pitchwheel channel=0 pitch=5886 time=2
+pitchwheel channel=0 pitch=6213 time=7
+pitchwheel channel=0 pitch=6540 time=6
+pitchwheel channel=0 pitch=6867 time=7
+pitchwheel channel=0 pitch=7194 time=7
+pitchwheel channel=0 pitch=7521 time=12
+pitchwheel channel=0 pitch=7848 time=7
+pitchwheel channel=0 pitch=8175 time=6
+pitchwheel channel=0 pitch=8191 time=7
+pitchwheel channel=0 pitch=7782 time=64
+pitchwheel channel=0 pitch=7373 time=7
+pitchwheel channel=0 pitch=6964 time=7
+pitchwheel channel=0 pitch=6555 time=7
+pitchwheel channel=0 pitch=6146 time=6
+pitchwheel channel=0 pitch=5737 time=4
+pitchwheel channel=0 pitch=5328 time=0
+pitchwheel channel=0 pitch=4919 time=5
+pitchwheel channel=0 pitch=4510 time=7
+pitchwheel channel=0 pitch=4101 time=6
+pitchwheel channel=0 pitch=3692 time=7
+pitchwheel channel=0 pitch=3283 time=7
+pitchwheel channel=0 pitch=2874 time=12
+pitchwheel channel=0 pitch=2465 time=7
+pitchwheel channel=0 pitch=2056 time=6
+pitchwheel channel=0 pitch=1647 time=7
+pitchwheel channel=0 pitch=1238 time=7
+pitchwheel channel=0 pitch=829 time=12
+pitchwheel channel=0 pitch=420 time=7
+pitchwheel channel=0 pitch=11 time=7
+pitchwheel channel=0 pitch=0 time=6
+pitchwheel channel=0 pitch=327 time=94
+pitchwheel channel=0 pitch=654 time=7
+pitchwheel channel=0 pitch=981 time=6
+pitchwheel channel=0 pitch=1308 time=7
+pitchwheel channel=0 pitch=1635 time=6
+pitchwheel channel=0 pitch=1962 time=7
+pitchwheel channel=0 pitch=2289 time=4
+pitchwheel channel=0 pitch=2616 time=0
+pitchwheel channel=0 pitch=2943 time=5
+pitchwheel channel=0 pitch=3270 time=7
+pitchwheel channel=0 pitch=3597 time=7
+pitchwheel channel=0 pitch=3924 time=7
+pitchwheel channel=0 pitch=4251 time=6
+pitchwheel channel=0 pitch=4578 time=12
+pitchwheel channel=0 pitch=4905 time=7
+pitchwheel channel=0 pitch=5232 time=7
+pitchwheel channel=0 pitch=5559 time=7
+pitchwheel channel=0 pitch=5886 time=6
+pitchwheel channel=0 pitch=6213 time=12
+pitchwheel channel=0 pitch=6540 time=7
+pitchwheel channel=0 pitch=6867 time=7
+pitchwheel channel=0 pitch=7194 time=6
+pitchwheel channel=0 pitch=7521 time=7
+pitchwheel channel=0 pitch=7848 time=7
+pitchwheel channel=0 pitch=8175 time=0
+pitchwheel channel=0 pitch=8191 time=2
+pitchwheel channel=0 pitch=7782 time=420
+pitchwheel channel=0 pitch=7373 time=12
+pitchwheel channel=0 pitch=6964 time=7
+pitchwheel channel=0 pitch=6555 time=7
+pitchwheel channel=0 pitch=6146 time=7
+pitchwheel channel=0 pitch=5737 time=6
+pitchwheel channel=0 pitch=5328 time=7
+pitchwheel channel=0 pitch=4919 time=0
+pitchwheel channel=0 pitch=4510 time=2
+pitchwheel channel=0 pitch=4101 time=7
+pitchwheel channel=0 pitch=3692 time=6
+pitchwheel channel=0 pitch=3283 time=7
+pitchwheel channel=0 pitch=2874 time=7
+pitchwheel channel=0 pitch=2465 time=12
+pitchwheel channel=0 pitch=2056 time=7
+pitchwheel channel=0 pitch=1647 time=7
+pitchwheel channel=0 pitch=1238 time=6
+pitchwheel channel=0 pitch=829 time=7
+pitchwheel channel=0 pitch=420 time=12
+pitchwheel channel=0 pitch=11 time=6
+pitchwheel channel=0 pitch=0 time=7
+pitchwheel channel=0 pitch=327 time=88
+pitchwheel channel=0 pitch=654 time=7
+pitchwheel channel=0 pitch=981 time=12
+pitchwheel channel=0 pitch=1308 time=7
+pitchwheel channel=0 pitch=1635 time=7
+pitchwheel channel=0 pitch=1962 time=6
+pitchwheel channel=0 pitch=2289 time=7
+pitchwheel channel=0 pitch=2616 time=12
+pitchwheel channel=0 pitch=2943 time=7
+pitchwheel channel=0 pitch=3270 time=6
+pitchwheel channel=0 pitch=3597 time=7
+pitchwheel channel=0 pitch=3924 time=7
+pitchwheel channel=0 pitch=4251 time=7
+pitchwheel channel=0 pitch=4578 time=1
+pitchwheel channel=0 pitch=4905 time=1
+pitchwheel channel=0 pitch=5232 time=7
+pitchwheel channel=0 pitch=5559 time=6
+pitchwheel channel=0 pitch=5886 time=7
+pitchwheel channel=0 pitch=6213 time=7
+pitchwheel channel=0 pitch=6540 time=12
+pitchwheel channel=0 pitch=6867 time=7
+pitchwheel channel=0 pitch=7194 time=7
+pitchwheel channel=0 pitch=7521 time=6
+pitchwheel channel=0 pitch=7848 time=7
+pitchwheel channel=0 pitch=8175 time=11
+pitchwheel channel=0 pitch=8191 time=7
+pitchwheel channel=0 pitch=7782 time=865
+pitchwheel channel=0 pitch=7373 time=7
+pitchwheel channel=0 pitch=6964 time=7
+pitchwheel channel=0 pitch=6555 time=11
+pitchwheel channel=0 pitch=6146 time=7
+pitchwheel channel=0 pitch=5737 time=7
+pitchwheel channel=0 pitch=5328 time=7
+pitchwheel channel=0 pitch=4919 time=7
+pitchwheel channel=0 pitch=4510 time=12
+pitchwheel channel=0 pitch=4101 time=6
+pitchwheel channel=0 pitch=3692 time=7
+pitchwheel channel=0 pitch=3283 time=7
+pitchwheel channel=0 pitch=2874 time=7
+pitchwheel channel=0 pitch=2465 time=6
+pitchwheel channel=0 pitch=2056 time=5
+pitchwheel channel=0 pitch=1647 time=0
+pitchwheel channel=0 pitch=1238 time=4
+pitchwheel channel=0 pitch=829 time=7
+pitchwheel channel=0 pitch=420 time=7
+pitchwheel channel=0 pitch=11 time=6
+pitchwheel channel=0 pitch=0 time=7
+note_off channel=0 note=53 velocity=64 time=123
+note_off channel=0 note=50 velocity=64 time=129
+note_on channel=0 note=62 velocity=127 time=120
+note_off channel=0 note=62 velocity=64 time=59
+note_on channel=0 note=62 velocity=127 time=164
+pitchwheel channel=0 pitch=-327 time=1682
+pitchwheel channel=0 pitch=-654 time=7
+pitchwheel channel=0 pitch=-981 time=7
+pitchwheel channel=0 pitch=-1308 time=6
+pitchwheel channel=0 pitch=-1635 time=7
+pitchwheel channel=0 pitch=-1962 time=12
+pitchwheel channel=0 pitch=-2289 time=7
+pitchwheel channel=0 pitch=-2616 time=7
+pitchwheel channel=0 pitch=-2943 time=6
+pitchwheel channel=0 pitch=-3270 time=7
+pitchwheel channel=0 pitch=-3597 time=12
+pitchwheel channel=0 pitch=-3924 time=7
+pitchwheel channel=0 pitch=-4251 time=7
+pitchwheel channel=0 pitch=-4578 time=6
+pitchwheel channel=0 pitch=-4905 time=7
+pitchwheel channel=0 pitch=-5232 time=12
+pitchwheel channel=0 pitch=-5559 time=7
+pitchwheel channel=0 pitch=-5886 time=7
+pitchwheel channel=0 pitch=-6213 time=7
+pitchwheel channel=0 pitch=-6540 time=6
+pitchwheel channel=0 pitch=-6867 time=5
+pitchwheel channel=0 pitch=-7194 time=0
+pitchwheel channel=0 pitch=-7521 time=3
+pitchwheel channel=0 pitch=-7848 time=7
+pitchwheel channel=0 pitch=-8175 time=7
+pitchwheel channel=0 pitch=-8192 time=7
+note_off channel=0 note=62 velocity=64 time=2141
+pitchwheel channel=0 pitch=-7783 time=62
+pitchwheel channel=0 pitch=-7374 time=7
+pitchwheel channel=0 pitch=-6965 time=7
+pitchwheel channel=0 pitch=-6556 time=6
+pitchwheel channel=0 pitch=-6147 time=7
+pitchwheel channel=0 pitch=-5738 time=12
+pitchwheel channel=0 pitch=-5329 time=7
+pitchwheel channel=0 pitch=-4920 time=7
+pitchwheel channel=0 pitch=-4511 time=7
+pitchwheel channel=0 pitch=-4102 time=6
+pitchwheel channel=0 pitch=-3693 time=7
+pitchwheel channel=0 pitch=-3284 time=2
+pitchwheel channel=0 pitch=-2875 time=0
+pitchwheel channel=0 pitch=-2466 time=6
+pitchwheel channel=0 pitch=-2057 time=7
+pitchwheel channel=0 pitch=-1648 time=6
+pitchwheel channel=0 pitch=-1239 time=7
+pitchwheel channel=0 pitch=-830 time=7
+pitchwheel channel=0 pitch=-421 time=13
+pitchwheel channel=0 pitch=-12 time=6
+pitchwheel channel=0 pitch=0 time=7
+pitchwheel channel=0 pitch=0 time=17300
+note_on channel=0 note=50 velocity=127 time=0
+note_on channel=0 note=53 velocity=127 time=0
+note_off channel=0 note=53 velocity=64 time=116
+note_off channel=0 note=50 velocity=64 time=129
+note_on channel=0 note=62 velocity=127 time=120
+note_off channel=0 note=62 velocity=64 time=59
+note_on channel=0 note=62 velocity=127 time=164
+pitchwheel channel=0 pitch=-327 time=1682
+pitchwheel channel=0 pitch=-654 time=7
+pitchwheel channel=0 pitch=-981 time=7
+pitchwheel channel=0 pitch=-1308 time=6
+pitchwheel channel=0 pitch=-1635 time=7
+pitchwheel channel=0 pitch=-1962 time=12
+pitchwheel channel=0 pitch=-2289 time=7
+pitchwheel channel=0 pitch=-2616 time=7
+pitchwheel channel=0 pitch=-2943 time=6
+pitchwheel channel=0 pitch=-3270 time=7
+pitchwheel channel=0 pitch=-3597 time=12
+pitchwheel channel=0 pitch=-3924 time=7
+pitchwheel channel=0 pitch=-4251 time=7
+pitchwheel channel=0 pitch=-4578 time=6
+pitchwheel channel=0 pitch=-4905 time=7
+pitchwheel channel=0 pitch=-5232 time=12
+pitchwheel channel=0 pitch=-5559 time=7
+pitchwheel channel=0 pitch=-5886 time=7
+pitchwheel channel=0 pitch=-6213 time=7
+pitchwheel channel=0 pitch=-6540 time=6
+pitchwheel channel=0 pitch=-6867 time=5
+pitchwheel channel=0 pitch=-7194 time=0
+pitchwheel channel=0 pitch=-7521 time=3
+pitchwheel channel=0 pitch=-7848 time=7
+pitchwheel channel=0 pitch=-8175 time=7
+pitchwheel channel=0 pitch=-8192 time=7
+note_off channel=0 note=62 velocity=64 time=2141
+pitchwheel channel=0 pitch=-7783 time=62
+pitchwheel channel=0 pitch=-7374 time=7
+pitchwheel channel=0 pitch=-6965 time=7
+pitchwheel channel=0 pitch=-6556 time=6
+pitchwheel channel=0 pitch=-6147 time=7
+pitchwheel channel=0 pitch=-5738 time=12
+pitchwheel channel=0 pitch=-5329 time=7
+pitchwheel channel=0 pitch=-4920 time=7
+pitchwheel channel=0 pitch=-4511 time=7
+pitchwheel channel=0 pitch=-4102 time=6
+pitchwheel channel=0 pitch=-3693 time=7
+pitchwheel channel=0 pitch=-3284 time=2
+pitchwheel channel=0 pitch=-2875 time=0
+pitchwheel channel=0 pitch=-2466 time=6
+pitchwheel channel=0 pitch=-2057 time=7
+pitchwheel channel=0 pitch=-1648 time=6
+pitchwheel channel=0 pitch=-1239 time=7
+pitchwheel channel=0 pitch=-830 time=7
+pitchwheel channel=0 pitch=-421 time=13
+pitchwheel channel=0 pitch=-12 time=6
+pitchwheel channel=0 pitch=0 time=7
+MetaMessage('end_of_track', time=0)
+Track 7: OB-Xd-bass_v-12dB
+MetaMessage('track_name', name='OB-Xd-bass_v-12dB', time=0)
+note_on channel=0 note=50 velocity=127 time=7680
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+note_on channel=0 note=50 velocity=127 time=95
+note_off channel=0 note=50 velocity=0 time=150
+note_on channel=0 note=50 velocity=127 time=90
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=123
+note_on channel=0 note=50 velocity=127 time=117
+note_off channel=0 note=50 velocity=0 time=129
+note_on channel=0 note=50 velocity=127 time=111
+note_off channel=0 note=50 velocity=0 time=49
+note_on channel=0 note=48 velocity=127 time=191
+note_off channel=0 note=48 velocity=0 time=121
+note_on channel=0 note=48 velocity=127 time=119
+note_off channel=0 note=48 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=581
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+note_on channel=0 note=50 velocity=127 time=95
+note_off channel=0 note=50 velocity=0 time=151
+note_on channel=0 note=50 velocity=127 time=89
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=123
+note_on channel=0 note=45 velocity=127 time=117
+note_off channel=0 note=45 velocity=0 time=129
+note_on channel=0 note=50 velocity=127 time=111
+note_off channel=0 note=50 velocity=0 time=135
+note_on channel=0 note=45 velocity=127 time=105
+note_off channel=0 note=45 velocity=0 time=141
+note_on channel=0 note=45 velocity=127 time=99
+note_off channel=0 note=45 velocity=0 time=140
+note_on channel=0 note=50 velocity=127 time=580
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+note_on channel=0 note=50 velocity=127 time=95
+note_off channel=0 note=50 velocity=0 time=151
+note_on channel=0 note=50 velocity=127 time=89
+note_off channel=0 note=50 velocity=0 time=42
+note_on channel=0 note=48 velocity=127 time=198
+note_off channel=0 note=48 velocity=0 time=124
+note_on channel=0 note=50 velocity=127 time=116
+note_off channel=0 note=50 velocity=0 time=130
+note_on channel=0 note=50 velocity=127 time=110
+note_off channel=0 note=50 velocity=0 time=135
+note_on channel=0 note=47 velocity=127 time=105
+note_off channel=0 note=47 velocity=0 time=141
+note_on channel=0 note=47 velocity=127 time=99
+note_off channel=0 note=47 velocity=0 time=147
+note_on channel=0 note=47 velocity=127 time=93
+note_off channel=0 note=47 velocity=0 time=110
+note_on channel=0 note=50 velocity=127 time=130
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=599
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+note_on channel=0 note=50 velocity=127 time=95
+note_off channel=0 note=50 velocity=0 time=151
+note_on channel=0 note=48 velocity=127 time=89
+note_off channel=0 note=48 velocity=0 time=121
+note_on channel=0 note=48 velocity=127 time=119
+note_off channel=0 note=48 velocity=0 time=127
+note_on channel=0 note=53 velocity=127 time=113
+note_off channel=0 note=53 velocity=0 time=133
+note_on channel=0 note=53 velocity=127 time=107
+note_off channel=0 note=53 velocity=0 time=139
+note_on channel=0 note=53 velocity=127 time=101
+note_off channel=0 note=53 velocity=0 time=144
+note_on channel=0 note=53 velocity=127 time=96
+note_off channel=0 note=53 velocity=0 time=150
+note_on channel=0 note=53 velocity=127 time=90
+note_off channel=0 note=53 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=123
+note_on channel=0 note=50 velocity=127 time=117
+note_off channel=0 note=50 velocity=0 time=129
+note_on channel=0 note=50 velocity=127 time=351
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+note_on channel=0 note=50 velocity=127 time=95
+note_off channel=0 note=50 velocity=0 time=116
+note_on channel=0 note=48 velocity=127 time=124
+note_off channel=0 note=48 velocity=0 time=121
+note_on channel=0 note=48 velocity=127 time=119
+note_off channel=0 note=48 velocity=0 time=127
+note_on channel=0 note=48 velocity=127 time=113
+note_off channel=0 note=48 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=51 velocity=127 time=581
+note_off channel=0 note=51 velocity=0 time=121
+note_on channel=0 note=51 velocity=127 time=119
+note_off channel=0 note=51 velocity=0 time=127
+note_on channel=0 note=51 velocity=127 time=113
+note_off channel=0 note=51 velocity=0 time=94
+note_on channel=0 note=50 velocity=127 time=386
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+note_on channel=0 note=50 velocity=127 time=95
+note_off channel=0 note=50 velocity=0 time=151
+note_on channel=0 note=50 velocity=127 time=89
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=45 velocity=127 time=119
+note_off channel=0 note=45 velocity=0 time=124
+note_on channel=0 note=50 velocity=127 time=116
+note_off channel=0 note=50 velocity=0 time=130
+note_on channel=0 note=50 velocity=127 time=110
+note_off channel=0 note=50 velocity=0 time=136
+note_on channel=0 note=50 velocity=127 time=104
+note_off channel=0 note=50 velocity=0 time=142
+note_on channel=0 note=50 velocity=127 time=98
+note_off channel=0 note=50 velocity=0 time=148
+note_on channel=0 note=50 velocity=127 time=92
+note_off channel=0 note=50 velocity=0 time=41
+note_on channel=0 note=50 velocity=127 time=919
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+note_on channel=0 note=50 velocity=127 time=95
+note_off channel=0 note=50 velocity=0 time=151
+note_on channel=0 note=47 velocity=127 time=89
+note_off channel=0 note=47 velocity=0 time=121
+note_on channel=0 note=47 velocity=127 time=119
+note_off channel=0 note=47 velocity=0 time=127
+note_on channel=0 note=47 velocity=127 time=113
+note_off channel=0 note=47 velocity=0 time=114
+note_on channel=0 note=50 velocity=127 time=126
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=144
+note_on channel=0 note=48 velocity=127 time=96
+note_off channel=0 note=48 velocity=0 time=151
+note_on channel=0 note=48 velocity=127 time=89
+note_off channel=0 note=48 velocity=0 time=153
+note_on channel=0 note=50 velocity=127 time=87
+note_off channel=0 note=50 velocity=0 time=124
+note_on channel=0 note=51 velocity=127 time=596
+note_off channel=0 note=51 velocity=0 time=121
+note_on channel=0 note=51 velocity=127 time=119
+note_off channel=0 note=51 velocity=0 time=127
+note_on channel=0 note=45 velocity=127 time=113
+note_off channel=0 note=45 velocity=0 time=133
+note_on channel=0 note=45 velocity=127 time=107
+note_off channel=0 note=45 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+note_on channel=0 note=50 velocity=127 time=95
+note_off channel=0 note=50 velocity=0 time=151
+note_on channel=0 note=50 velocity=127 time=89
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=124
+note_on channel=0 note=52 velocity=127 time=116
+note_off channel=0 note=52 velocity=0 time=130
+note_on channel=0 note=52 velocity=127 time=110
+note_off channel=0 note=52 velocity=0 time=136
+note_on channel=0 note=52 velocity=127 time=104
+note_off channel=0 note=52 velocity=0 time=142
+note_on channel=0 note=50 velocity=127 time=338
+note_off channel=0 note=50 velocity=0 time=122
+note_on channel=0 note=50 velocity=127 time=118
+note_off channel=0 note=50 velocity=0 time=128
+note_on channel=0 note=50 velocity=127 time=112
+note_off channel=0 note=50 velocity=0 time=134
+note_on channel=0 note=50 velocity=127 time=346
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+note_on channel=0 note=50 velocity=127 time=95
+note_off channel=0 note=50 velocity=0 time=151
+note_on channel=0 note=50 velocity=127 time=89
+note_off channel=0 note=50 velocity=0 time=62
+note_on channel=0 note=45 velocity=127 time=178
+note_off channel=0 note=45 velocity=0 time=124
+note_on channel=0 note=45 velocity=127 time=116
+note_off channel=0 note=45 velocity=0 time=125
+note_on channel=0 note=50 velocity=127 time=115
+note_off channel=0 note=50 velocity=0 time=136
+note_on channel=0 note=50 velocity=127 time=104
+note_off channel=0 note=50 velocity=0 time=142
+note_on channel=0 note=50 velocity=127 time=338
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=45 velocity=127 time=119
+note_off channel=0 note=45 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=106
+note_on channel=0 note=50 velocity=127 time=374
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=127
+note_on channel=0 note=48 velocity=127 time=113
+note_off channel=0 note=48 velocity=0 time=133
+note_on channel=0 note=48 velocity=127 time=107
+note_off channel=0 note=48 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+note_on channel=0 note=50 velocity=127 time=95
+note_off channel=0 note=50 velocity=0 time=151
+note_on channel=0 note=50 velocity=127 time=89
+note_off channel=0 note=50 velocity=0 time=94
+note_on channel=0 note=45 velocity=127 time=146
+note_off channel=0 note=45 velocity=0 time=124
+note_on channel=0 note=45 velocity=127 time=116
+note_off channel=0 note=45 velocity=0 time=138
+note_on channel=0 note=50 velocity=127 time=342
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=48 velocity=127 time=119
+note_off channel=0 note=48 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=53
+note_on channel=0 note=53 velocity=127 time=187
+note_off channel=0 note=53 velocity=0 time=139
+note_on channel=0 note=53 velocity=127 time=101
+note_off channel=0 note=53 velocity=0 time=52
+note_on channel=0 note=50 velocity=127 time=428
+note_off channel=0 note=50 velocity=0 time=122
+note_on channel=0 note=50 velocity=127 time=118
+note_off channel=0 note=50 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+note_on channel=0 note=50 velocity=127 time=95
+note_off channel=0 note=50 velocity=0 time=151
+note_on channel=0 note=50 velocity=127 time=89
+note_off channel=0 note=50 velocity=0 time=121
+note_on channel=0 note=50 velocity=127 time=119
+note_off channel=0 note=50 velocity=0 time=124
+note_on channel=0 note=50 velocity=127 time=116
+note_off channel=0 note=50 velocity=0 time=130
+note_on channel=0 note=50 velocity=127 time=110
+note_off channel=0 note=50 velocity=0 time=136
+note_on channel=0 note=48 velocity=127 time=104
+note_off channel=0 note=48 velocity=0 time=121
+note_on channel=0 note=48 velocity=127 time=119
+note_off channel=0 note=48 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=45 velocity=127 time=581
+note_off channel=0 note=45 velocity=0 time=122
+note_on channel=0 note=45 velocity=127 time=118
+note_off channel=0 note=45 velocity=0 time=128
+note_on channel=0 note=45 velocity=127 time=112
+note_off channel=0 note=45 velocity=0 time=133
+note_on channel=0 note=45 velocity=127 time=107
+note_off channel=0 note=45 velocity=0 time=139
+note_on channel=0 note=47 velocity=127 time=101
+note_off channel=0 note=47 velocity=0 time=145
+note_on channel=0 note=47 velocity=127 time=95
+note_off channel=0 note=47 velocity=0 time=151
+note_on channel=0 note=47 velocity=127 time=89
+note_off channel=0 note=47 velocity=0 time=50
+note_on channel=0 note=50 velocity=127 time=190
+note_off channel=0 note=50 velocity=0 time=124
+note_on channel=0 note=50 velocity=127 time=116
+note_off channel=0 note=50 velocity=0 time=130
+note_on channel=0 note=50 velocity=127 time=110
+note_off channel=0 note=50 velocity=0 time=136
+note_on channel=0 note=55 velocity=127 time=104
+note_off channel=0 note=55 velocity=0 time=121
+note_on channel=0 note=55 velocity=127 time=119
+note_off channel=0 note=55 velocity=0 time=127
+note_on channel=0 note=50 velocity=127 time=113
+note_off channel=0 note=50 velocity=0 time=133
+note_on channel=0 note=50 velocity=127 time=107
+note_off channel=0 note=50 velocity=0 time=139
+note_on channel=0 note=50 velocity=127 time=101
+note_off channel=0 note=50 velocity=0 time=145
+MetaMessage('end_of_track', time=0)
