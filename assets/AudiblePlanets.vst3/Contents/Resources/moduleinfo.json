@@ -1,0 +1,60 @@
+{
+  "Name": "Audible Planets",
+  "Version": "1.1.5",
+  "Factory Info": {
+    "Vendor": "Void-Star",
+    "URL": "https://void-star.com/",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB5664737441507473",
+      "Category": "Audio Module Class",
+      "Name": "Audible Planets",
+      "Vendor": "Void-Star",
+      "Version": "1.1.5",
+      "SDKVersion": "VST 3.7.11",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD5664737441507473",
+      "Category": "Component Controller Class",
+      "Name": "Audible Planets",
+      "Vendor": "Void-Star",
+      "Version": "1.1.5",
+      "SDKVersion": "VST 3.7.11",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF01C0DEF00D5664737441507473",
+      "Category": "Plugin Compatibility Class",
+      "Name": "Audible Planets",
+      "Vendor": "Void-Star",
+      "Version": "1.1.5",
+      "SDKVersion": "VST 3.7.11",
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
